@@ -1,0 +1,213 @@
+[INFO ] 18-04-2022 12:12:38 [main] firefox - TC01
+[INFO ] 18-04-2022 12:12:42 [main] firefox - Register an account: vui-220418121238@gmail.com
+[INFO ] 18-04-2022 12:12:46 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:12:49 [main] firefox - Verify welcome message
+[INFO ] 18-04-2022 12:12:57 [main] firefox - TC01
+[INFO ] 18-04-2022 12:13:01 [main] firefox - Register an account: hana-220418121257@gmail.com
+[INFO ] 18-04-2022 12:13:05 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:13:08 [main] firefox - Verify welcome message
+[INFO ] 18-04-2022 12:13:16 [main] firefox - TC02
+[INFO ] 18-04-2022 12:13:19 [main] firefox - Login without Email
+[INFO ] 18-04-2022 12:13:19 [main] firefox - Verify error message
+[INFO ] 18-04-2022 12:13:27 [main] firefox - TC03
+[INFO ] 18-04-2022 12:13:31 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:13:35 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:13:35 [main] firefox - Verify error message
+[INFO ] 18-04-2022 12:13:43 [main] firefox - TC03
+[INFO ] 18-04-2022 12:13:47 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:13:51 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:13:51 [main] firefox - Verify error message
+[INFO ] 18-04-2022 12:13:58 [main] firefox - TC04
+[INFO ] 18-04-2022 12:14:03 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:14:04 [main] firefox - Navigate to book ticket page.
+[INFO ] 18-04-2022 12:14:07 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:14:07 [main] firefox - Verify title
+[INFO ] 18-04-2022 12:14:14 [main] firefox - TC04
+[INFO ] 18-04-2022 12:14:18 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:14:19 [main] firefox - Navigate to book ticket page.
+[INFO ] 18-04-2022 12:14:23 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:14:23 [main] firefox - Verify title
+[INFO ] 18-04-2022 12:14:30 [main] firefox - TC05
+[INFO ] 18-04-2022 12:14:34 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:14:35 [main] firefox - Login with incorrect password several times
+[INFO ] 18-04-2022 12:14:43 [main] firefox - TC05
+[INFO ] 18-04-2022 12:14:47 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:14:48 [main] firefox - Login with incorrect password several times
+[INFO ] 18-04-2022 12:14:56 [main] firefox - TC06
+[INFO ] 18-04-2022 12:15:00 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:15:04 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:15:06 [main] firefox - Log out
+[INFO ] 18-04-2022 12:15:36 [main] firefox - Verify title and Logout tab is disappeared
+[INFO ] 18-04-2022 12:15:44 [main] firefox - TC06
+[INFO ] 18-04-2022 12:15:48 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:15:52 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:15:54 [main] firefox - Log out
+[INFO ] 18-04-2022 12:16:24 [main] firefox - Verify title and Logout tab is disappeared
+[INFO ] 18-04-2022 12:16:31 [main] firefox - TC07
+[INFO ] 18-04-2022 12:16:35 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:16:46 [main] firefox - TC07
+[INFO ] 18-04-2022 12:16:50 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:17:00 [main] firefox - TC07
+[INFO ] 18-04-2022 12:17:04 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:17:15 [main] firefox - TC07
+[INFO ] 18-04-2022 12:17:20 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:17:30 [main] firefox - TC07
+[INFO ] 18-04-2022 12:17:35 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:17:45 [main] firefox - TC09
+[INFO ] 18-04-2022 12:17:49 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:17:53 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:17:54 [main] firefox - Change password
+[INFO ] 18-04-2022 12:17:54 [main] firefox - Verify error message
+[INFO ] 18-04-2022 12:18:02 [main] firefox - TC09
+[INFO ] 18-04-2022 12:18:06 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:18:10 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:18:11 [main] firefox - Change password
+[INFO ] 18-04-2022 12:18:11 [main] firefox - Verify error message
+[INFO ] 18-04-2022 12:18:19 [main] firefox - TC10
+[INFO ] 18-04-2022 12:18:23 [main] firefox - Register an account: vui-220418121819@gmail.com
+[INFO ] 18-04-2022 12:18:27 [main] firefox - Register another account with registered email: vui-220418121819@gmail.com
+[INFO ] 18-04-2022 12:18:27 [main] firefox - Verify error message
+[INFO ] 18-04-2022 12:18:38 [main] firefox - TC10
+[INFO ] 18-04-2022 12:18:42 [main] firefox - Register an account: hana-220418121838@gmail.com
+[INFO ] 18-04-2022 12:18:46 [main] firefox - Register another account with registered email: hana-220418121838@gmail.com
+[INFO ] 18-04-2022 12:18:46 [main] firefox - Verify error message
+[INFO ] 18-04-2022 12:18:53 [main] firefox - TC11
+[INFO ] 18-04-2022 12:18:57 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:18:58 [main] firefox - Verify error message
+[INFO ] 18-04-2022 12:19:05 [main] firefox - TC11
+[INFO ] 18-04-2022 12:19:09 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:19:09 [main] firefox - Verify error message
+[INFO ] 18-04-2022 12:19:17 [main] firefox - TC14
+[INFO ] 18-04-2022 12:19:21 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:19:25 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:19:33 [main] firefox - Book many tickets
+[INFO ] 18-04-2022 12:19:33 [main] firefox - Verify booked ticket information
+[INFO ] 18-04-2022 12:19:40 [main] firefox - TC15
+[INFO ] 18-04-2022 12:19:44 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:19:49 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:19:50 [main] firefox - Click on link check price
+[INFO ] 18-04-2022 12:19:51 [main] firefox - Verify price of each seat
+[INFO ] 18-04-2022 12:19:58 [main] firefox - TC15
+[INFO ] 18-04-2022 12:20:02 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:20:06 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:20:08 [main] firefox - Click on link check price
+[INFO ] 18-04-2022 12:20:16 [main] firefox - TC15
+[INFO ] 18-04-2022 12:20:20 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:20:24 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:20:25 [main] firefox - Click on link check price
+[INFO ] 18-04-2022 12:20:34 [main] firefox - TC16
+[INFO ] 18-04-2022 12:20:39 [main] firefox - Register an account
+[INFO ] 18-04-2022 12:20:42 [main] firefox - Login with registered account
+[INFO ] 18-04-2022 12:20:50 [main] firefox - Book ticket
+[INFO ] 18-04-2022 12:20:51 [main] firefox - Cancel ticket
+[INFO ] 18-04-2022 12:20:54 [main] firefox - Confirm cancel ticket
+[INFO ] 18-04-2022 12:21:25 [main] firefox - Verify that the canceled ticket is disappeared
+[INFO ] 18-04-2022 12:22:37 [main] chrome - TC01
+[INFO ] 18-04-2022 12:22:44 [main] chrome - Register an account: vui-220418122238@gmail.com
+[INFO ] 18-04-2022 12:22:50 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:22:53 [main] chrome - Verify welcome message
+[INFO ] 18-04-2022 12:22:57 [main] chrome - TC01
+[INFO ] 18-04-2022 12:23:03 [main] chrome - Register an account: hana-220418122257@gmail.com
+[INFO ] 18-04-2022 12:23:09 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:23:12 [main] chrome - Verify welcome message
+[INFO ] 18-04-2022 12:23:16 [main] chrome - TC02
+[INFO ] 18-04-2022 12:23:21 [main] chrome - Login without Email
+[INFO ] 18-04-2022 12:23:21 [main] chrome - Verify error message
+[INFO ] 18-04-2022 12:23:25 [main] chrome - TC03
+[INFO ] 18-04-2022 12:23:31 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:23:36 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:23:36 [main] chrome - Verify error message
+[INFO ] 18-04-2022 12:23:40 [main] chrome - TC03
+[INFO ] 18-04-2022 12:23:46 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:23:51 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:23:51 [main] chrome - Verify error message
+[INFO ] 18-04-2022 12:23:55 [main] chrome - TC04
+[INFO ] 18-04-2022 12:24:01 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:24:02 [main] chrome - Navigate to book ticket page.
+[INFO ] 18-04-2022 12:24:06 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:24:06 [main] chrome - Verify title
+[INFO ] 18-04-2022 12:24:10 [main] chrome - TC04
+[INFO ] 18-04-2022 12:24:16 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:24:18 [main] chrome - Navigate to book ticket page.
+[INFO ] 18-04-2022 12:24:22 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:24:22 [main] chrome - Verify title
+[INFO ] 18-04-2022 12:24:26 [main] chrome - TC05
+[INFO ] 18-04-2022 12:24:32 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:24:36 [main] chrome - Login with incorrect password several times
+[INFO ] 18-04-2022 12:24:40 [main] chrome - TC05
+[INFO ] 18-04-2022 12:24:46 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:24:50 [main] chrome - Login with incorrect password several times
+[INFO ] 18-04-2022 12:24:54 [main] chrome - TC06
+[INFO ] 18-04-2022 12:24:59 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:25:05 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:25:08 [main] chrome - Log out
+[INFO ] 18-04-2022 12:25:38 [main] chrome - Verify title and Logout tab is disappeared
+[INFO ] 18-04-2022 12:25:42 [main] chrome - TC06
+[INFO ] 18-04-2022 12:25:47 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:25:53 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:25:55 [main] chrome - Log out
+[INFO ] 18-04-2022 12:26:25 [main] chrome - Verify title and Logout tab is disappeared
+[INFO ] 18-04-2022 12:26:29 [main] chrome - TC07
+[INFO ] 18-04-2022 12:26:35 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:26:38 [main] chrome - Verify successful registration message
+[INFO ] 18-04-2022 12:26:42 [main] chrome - TC07
+[INFO ] 18-04-2022 12:26:48 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:26:51 [main] chrome - Verify successful registration message
+[INFO ] 18-04-2022 12:26:55 [main] chrome - TC07
+[INFO ] 18-04-2022 12:27:01 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:27:04 [main] chrome - Verify successful registration message
+[INFO ] 18-04-2022 12:27:08 [main] chrome - TC07
+[INFO ] 18-04-2022 12:27:14 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:27:17 [main] chrome - Verify successful registration message
+[INFO ] 18-04-2022 12:27:21 [main] chrome - TC07
+[INFO ] 18-04-2022 12:27:27 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:27:30 [main] chrome - Verify successful registration message
+[INFO ] 18-04-2022 12:27:34 [main] chrome - TC09
+[INFO ] 18-04-2022 12:27:40 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:27:46 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:27:48 [main] chrome - Change password
+[INFO ] 18-04-2022 12:27:48 [main] chrome - Verify error message
+[INFO ] 18-04-2022 12:27:52 [main] chrome - TC09
+[INFO ] 18-04-2022 12:27:58 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:28:03 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:28:05 [main] chrome - Change password
+[INFO ] 18-04-2022 12:28:05 [main] chrome - Verify error message
+[INFO ] 18-04-2022 12:28:09 [main] chrome - TC10
+[INFO ] 18-04-2022 12:28:15 [main] chrome - Register an account: vui-220418122809@gmail.com
+[INFO ] 18-04-2022 12:28:20 [main] chrome - Register another account with registered email: vui-220418122809@gmail.com
+[INFO ] 18-04-2022 12:28:20 [main] chrome - Verify error message
+[INFO ] 18-04-2022 12:28:24 [main] chrome - TC10
+[INFO ] 18-04-2022 12:28:30 [main] chrome - Register an account: hana-220418122824@gmail.com
+[INFO ] 18-04-2022 12:28:35 [main] chrome - Register another account with registered email: hana-220418122824@gmail.com
+[INFO ] 18-04-2022 12:28:35 [main] chrome - Verify error message
+[INFO ] 18-04-2022 12:28:39 [main] chrome - TC11
+[INFO ] 18-04-2022 12:28:45 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:28:45 [main] chrome - Verify error message
+[INFO ] 18-04-2022 12:28:51 [main] chrome - TC11
+[INFO ] 18-04-2022 12:28:58 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:28:58 [main] chrome - Verify error message
+[INFO ] 18-04-2022 12:29:02 [main] chrome - TC14
+[INFO ] 18-04-2022 12:29:09 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:29:15 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:29:24 [main] chrome - Book many tickets
+[INFO ] 18-04-2022 12:29:24 [main] chrome - Verify booked ticket information
+[INFO ] 18-04-2022 12:29:28 [main] chrome - TC15
+[INFO ] 18-04-2022 12:29:34 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:29:40 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:29:42 [main] chrome - Click on link check price
+[INFO ] 18-04-2022 12:29:43 [main] chrome - Verify price of each seat
+[INFO ] 18-04-2022 12:29:47 [main] chrome - TC15
+[INFO ] 18-04-2022 12:29:53 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:29:59 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:30:01 [main] chrome - Click on link check price
+[INFO ] 18-04-2022 12:30:06 [main] chrome - TC15
+[INFO ] 18-04-2022 12:30:12 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:30:18 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:30:20 [main] chrome - Click on link check price
+[INFO ] 18-04-2022 12:30:25 [main] chrome - TC16
+[INFO ] 18-04-2022 12:30:32 [main] chrome - Register an account
+[INFO ] 18-04-2022 12:30:37 [main] chrome - Login with registered account
+[INFO ] 18-04-2022 12:30:46 [main] chrome - Book ticket
+[INFO ] 18-04-2022 12:30:47 [main] chrome - Cancel ticket
+[INFO ] 18-04-2022 12:30:50 [main] chrome - Confirm cancel ticket
+[INFO ] 18-04-2022 12:31:20 [main] chrome - Verify that the canceled ticket is disappeared

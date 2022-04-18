@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+    <parameter name="browser" value="chrome"/>
+    <test name="Regression">
+        <classes>
+            <class name="TestCases.TC01"></class>
+            <class name="TestCases.TC02"></class>
+            <class name="TestCases.TC03"></class>
+            <class name="TestCases.TC04"></class>
+            <class name="TestCases.TC05"></class>
+            <class name="TestCases.TC06"></class>
+            <class name="TestCases.TC07"></class>
+            <class name="TestCases.TC09"></class>
+            <class name="TestCases.TC10"></class>
+            <class name="TestCases.TC11"></class>
+            <class name="TestCases.TC14"></class>
+            <class name="TestCases.TC15"></class>
+            <class name="TestCases.TC16"></class>
+        </classes>
+    </test>
+</suite>
