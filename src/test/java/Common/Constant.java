@@ -8,4 +8,5 @@ public class Constant {
     public static String HOME_PAGE_URL = "http://www.raillog.somee.com/Page/HomePage.cshtml";
     public static String BROWSER = "";
     public static int shortWait = 3000;
+
 }

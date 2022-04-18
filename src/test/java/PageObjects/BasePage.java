@@ -64,7 +64,7 @@ public class BasePage {
     public boolean findLogOutTab(){
         try {
             getLinkLogOut();
-            explicitWait(10, linkLogOut);
+            explicitWait(5, linkLogOut);
             return true;
         }
         catch (NoSuchElementException ex){ return false; }

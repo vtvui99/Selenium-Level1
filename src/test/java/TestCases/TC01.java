@@ -1,6 +1,5 @@
 package TestCases;
 
-import Common.Constant;
 import Common.DataFaker;
 import Common.Log;
 import Common.TestBase;
@@ -31,7 +30,6 @@ public class TC01 extends TestBase {
         loginPage.loginToSystem(username, password);
         Log.info("Login with registered account");
 
-        Thread.sleep(Constant.shortWait);
         String expectedMessage = "Welcome " + username;
         String actualMessage = loginPage.getMessageWelcome();
 

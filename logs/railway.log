@@ -211,3 +211,121 @@
 [INFO ] 18-04-2022 12:30:47 [main] chrome - Cancel ticket
 [INFO ] 18-04-2022 12:30:50 [main] chrome - Confirm cancel ticket
 [INFO ] 18-04-2022 12:31:20 [main] chrome - Verify that the canceled ticket is disappeared
+[INFO ] 18-04-2022 15:17:43 [main] firefox - Cancel ticket
+[INFO ] 18-04-2022 15:19:01 [main] firefox - Cancel ticket
+[INFO ] 18-04-2022 15:19:56 [main] firefox - Cancel ticket
+[INFO ] 18-04-2022 15:21:13 [main] firefox - Cancel ticket
+[INFO ] 18-04-2022 15:22:31 [main] chrome - Cancel ticket
+[INFO ] 18-04-2022 15:23:51 [main] chrome - Cancel ticket
+[INFO ] 18-04-2022 15:27:11 [main] chrome - Cancel ticket
+[INFO ] 18-04-2022 15:28:43 [main] chrome - Cancel ticket
+[INFO ] 18-04-2022 15:30:50 [main] chrome - Cancel ticket
+[INFO ] 18-04-2022 16:02:50 [main] edge - TC01
+[INFO ] 18-04-2022 16:02:56 [main] edge - Register an account: vui-220418160250@gmail.com
+[INFO ] 18-04-2022 16:03:02 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:03:02 [main] edge - Verify welcome message
+[INFO ] 18-04-2022 16:03:07 [main] edge - TC01
+[INFO ] 18-04-2022 16:03:12 [main] edge - Register an account: hana-220418160307@gmail.com
+[INFO ] 18-04-2022 16:03:19 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:03:19 [main] edge - Verify welcome message
+[INFO ] 18-04-2022 16:03:24 [main] edge - TC02
+[INFO ] 18-04-2022 16:03:29 [main] edge - Login without Email
+[INFO ] 18-04-2022 16:03:29 [main] edge - Verify error message
+[INFO ] 18-04-2022 16:03:33 [main] edge - TC03
+[INFO ] 18-04-2022 16:03:39 [main] edge - Register an account
+[INFO ] 18-04-2022 16:03:45 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:03:45 [main] edge - Verify error message
+[INFO ] 18-04-2022 16:03:49 [main] edge - TC03
+[INFO ] 18-04-2022 16:03:55 [main] edge - Register an account
+[INFO ] 18-04-2022 16:04:00 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:04:00 [main] edge - Verify error message
+[INFO ] 18-04-2022 16:04:04 [main] edge - TC04
+[INFO ] 18-04-2022 16:04:10 [main] edge - Register an account
+[INFO ] 18-04-2022 16:04:12 [main] edge - Navigate to book ticket page.
+[INFO ] 18-04-2022 16:04:16 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:04:16 [main] edge - Verify title
+[INFO ] 18-04-2022 16:04:20 [main] edge - TC04
+[INFO ] 18-04-2022 16:04:26 [main] edge - Register an account
+[INFO ] 18-04-2022 16:04:27 [main] edge - Navigate to book ticket page.
+[INFO ] 18-04-2022 16:04:32 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:04:32 [main] edge - Verify title
+[INFO ] 18-04-2022 16:04:37 [main] edge - TC05
+[INFO ] 18-04-2022 16:04:43 [main] edge - Register an account
+[INFO ] 18-04-2022 16:04:47 [main] edge - Login with incorrect password several times
+[INFO ] 18-04-2022 16:04:51 [main] edge - TC05
+[INFO ] 18-04-2022 16:04:57 [main] edge - Register an account
+[INFO ] 18-04-2022 16:05:01 [main] edge - Login with incorrect password several times
+[INFO ] 18-04-2022 16:05:05 [main] edge - TC06
+[INFO ] 18-04-2022 16:05:11 [main] edge - Register an account
+[INFO ] 18-04-2022 16:05:17 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:05:19 [main] edge - Log out
+[INFO ] 18-04-2022 16:05:49 [main] edge - Verify title and Logout tab is disappeared
+[INFO ] 18-04-2022 16:05:54 [main] edge - TC06
+[INFO ] 18-04-2022 16:06:00 [main] edge - Register an account
+[INFO ] 18-04-2022 16:06:06 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:06:09 [main] edge - Log out
+[INFO ] 18-04-2022 16:06:39 [main] edge - Verify title and Logout tab is disappeared
+[INFO ] 18-04-2022 16:06:43 [main] edge - TC07
+[INFO ] 18-04-2022 16:06:49 [main] edge - Register an account
+[INFO ] 18-04-2022 16:06:52 [main] edge - Verify successful registration message
+[INFO ] 18-04-2022 16:06:56 [main] edge - TC07
+[INFO ] 18-04-2022 16:07:03 [main] edge - Register an account
+[INFO ] 18-04-2022 16:07:06 [main] edge - Verify successful registration message
+[INFO ] 18-04-2022 16:07:10 [main] edge - TC07
+[INFO ] 18-04-2022 16:07:16 [main] edge - Register an account
+[INFO ] 18-04-2022 16:07:19 [main] edge - Verify successful registration message
+[INFO ] 18-04-2022 16:07:26 [main] edge - TC07
+[INFO ] 18-04-2022 16:07:33 [main] edge - Register an account
+[INFO ] 18-04-2022 16:07:36 [main] edge - Verify successful registration message
+[INFO ] 18-04-2022 16:07:40 [main] edge - TC07
+[INFO ] 18-04-2022 16:07:46 [main] edge - Register an account
+[INFO ] 18-04-2022 16:07:49 [main] edge - Verify successful registration message
+[INFO ] 18-04-2022 16:07:54 [main] edge - TC09
+[INFO ] 18-04-2022 16:08:00 [main] edge - Register an account
+[INFO ] 18-04-2022 16:08:06 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:08:08 [main] edge - Change password
+[INFO ] 18-04-2022 16:08:08 [main] edge - Verify error message
+[INFO ] 18-04-2022 16:08:13 [main] edge - TC09
+[INFO ] 18-04-2022 16:08:18 [main] edge - Register an account
+[INFO ] 18-04-2022 16:08:25 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:08:27 [main] edge - Change password
+[INFO ] 18-04-2022 16:08:27 [main] edge - Verify error message
+[INFO ] 18-04-2022 16:08:32 [main] edge - TC10
+[INFO ] 18-04-2022 16:08:38 [main] edge - Register an account: vui-220418160832@gmail.com
+[INFO ] 18-04-2022 16:08:43 [main] edge - Register another account with registered email: vui-220418160832@gmail.com
+[INFO ] 18-04-2022 16:08:43 [main] edge - Verify error message
+[INFO ] 18-04-2022 16:08:47 [main] edge - TC10
+[INFO ] 18-04-2022 16:08:53 [main] edge - Register an account: hana-220418160847@gmail.com
+[INFO ] 18-04-2022 16:08:59 [main] edge - Register another account with registered email: hana-220418160847@gmail.com
+[INFO ] 18-04-2022 16:08:59 [main] edge - Verify error message
+[INFO ] 18-04-2022 16:09:03 [main] edge - TC11
+[INFO ] 18-04-2022 16:09:09 [main] edge - Register an account
+[INFO ] 18-04-2022 16:09:09 [main] edge - Verify error message
+[INFO ] 18-04-2022 16:09:13 [main] edge - TC11
+[INFO ] 18-04-2022 16:09:18 [main] edge - Register an account
+[INFO ] 18-04-2022 16:09:18 [main] edge - Verify error message
+[INFO ] 18-04-2022 16:09:23 [main] edge - TC14
+[INFO ] 18-04-2022 16:09:29 [main] edge - Register an account
+[INFO ] 18-04-2022 16:09:35 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:09:43 [main] edge - Book many tickets
+[INFO ] 18-04-2022 16:09:43 [main] edge - Verify booked ticket information
+[INFO ] 18-04-2022 16:09:48 [main] edge - TC15
+[INFO ] 18-04-2022 16:09:54 [main] edge - Register an account
+[INFO ] 18-04-2022 16:10:00 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:10:02 [main] edge - Click on link check price
+[INFO ] 18-04-2022 16:10:03 [main] edge - Verify price of each seat
+[INFO ] 18-04-2022 16:10:07 [main] edge - TC15
+[INFO ] 18-04-2022 16:10:14 [main] edge - Register an account
+[INFO ] 18-04-2022 16:10:20 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:10:22 [main] edge - Click on link check price
+[INFO ] 18-04-2022 16:10:28 [main] edge - TC15
+[INFO ] 18-04-2022 16:10:35 [main] edge - Register an account
+[INFO ] 18-04-2022 16:10:40 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:10:42 [main] edge - Click on link check price
+[INFO ] 18-04-2022 16:10:47 [main] edge - TC16
+[INFO ] 18-04-2022 16:10:53 [main] edge - Register an account
+[INFO ] 18-04-2022 16:10:59 [main] edge - Login with registered account
+[INFO ] 18-04-2022 16:11:08 [main] edge - Book ticket
+[INFO ] 18-04-2022 16:11:09 [main] edge - Cancel ticket
+[INFO ] 18-04-2022 16:11:12 [main] edge - Confirm cancel ticket
+[INFO ] 18-04-2022 16:11:42 [main] edge - Verify that the canceled ticket is disappeared

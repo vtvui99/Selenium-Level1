@@ -29,7 +29,7 @@ public class MyTicketPage extends BasePage{
     public boolean findTableMyTicket(){
         try {
             getTableMyTicket();
-            explicitWait(10, tableMyTicket);
+            explicitWait(5, tableMyTicket);
             return true;
         }
         catch (NoSuchElementException ex){return false;}

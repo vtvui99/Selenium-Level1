@@ -14,7 +14,7 @@ import java.util.List;
 public class TestBase {
     @BeforeSuite
     @Parameters("browser")
-    public void beforeSuite(String browserName){
+    public void beforeSuite(@Optional("chrome") String browserName){
         Constant.BROWSER = browserName;
     }
 

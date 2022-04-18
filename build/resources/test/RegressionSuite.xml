@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Regression">
-    <parameter name="browser" value="chrome"/>
+    <parameter name="browser" value="edge"/>
     <test name="Regression">
         <classes>
             <class name="TestCases.TC01"></class>
